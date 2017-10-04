@@ -1,0 +1,25 @@
+{
+  "name": "startbootstrap-landing-page",
+  "description": "An HTML landing page template built with Bootstrap",
+  "main": "",
+  "authors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://github.com/NorthCreative/startbootstrap-landing-page",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

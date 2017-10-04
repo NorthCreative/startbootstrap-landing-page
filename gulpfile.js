@@ -28,6 +28,7 @@ gulp.task('copy', function() {
       '!node_modules/font-awesome/*.json'
     ])
     .pipe(gulp.dest('vendor/font-awesome'))
+    
 })
 
 // Default task
